@@ -42,6 +42,12 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [x] Deploy application using docker swarm 
 	- [VisNotes](https://github.com/VisNotes)
 
+## Tools
+
+### Apache Kafka
+
+- [ ] Learn how to publish and subscribe to a Kafka topic
+
 # Frameworks & Languages
 
 ## Flutter
@@ -64,12 +70,6 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [ ] Build and structure applications following [Bullet Proof React](https://github.com/alan2207/bulletproof-react)
 - [ ] Learn how to record analytics in a react application
 - [ ] Learn how to test react components 
-
-# Tools
-
-## Apache Kafka
-
-- [ ] Learn how to publish and subscribe to a Kafka topic
 
 # Misc
 
