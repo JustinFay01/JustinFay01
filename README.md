@@ -89,5 +89,6 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [ ] For each book finished write a synopsis of what you learned, what information may be very useful (and where to find)
 
 - [ ] [Designing Data intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+	- pg. 518
 - [ ] [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
