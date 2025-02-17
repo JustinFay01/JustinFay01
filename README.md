@@ -20,6 +20,7 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [Completed 1/12/2025](https://learn.microsoft.com/api/credentials/share/en-us/JustinFay-4586/F83DCBC1E469856A?sharingId=7467A5E55FB6CB67)
 - [ ] [AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification) (Microsoft Certified: Azure Developer Associate)
 - [ ] Deploy an app to `App Service`
+- [ ] Setup `APIM` to manage an API
 
 ## AWS
 
@@ -33,6 +34,7 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [ ] Event driven serverless functions; `Lambda` or `Azure Functions`
 - [ ] Push notifications for a mobile app
 - [ ] MQTT Broker using a cloud service
+- [ ] Deploy an `API Gateway` for a project
 
 # DevOps
 
