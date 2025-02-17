@@ -39,7 +39,7 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [x] Deploy your first CI/CD Pipeline for any project
   - https://github.com/JustinFay01/visnotes-react
 - [x] Point a domain to your server
-  - [Eremos](eremos.cloud)
+  - [Eremos](https://eremos.cloud)
 - [x] Learn about SSH hardening
 - [x] Deploy application using docker swarm
   - [VisNotes](https://github.com/VisNotes)
