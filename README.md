@@ -65,6 +65,8 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 
 ## Dot Net
 
+- [ ] Basic SignalR API for RTC
+
 ## Swift
 
 - [ ] Learn the basics of the swift language
@@ -76,6 +78,12 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [ ] Learn how to record analytics in a react application
 - [ ] Learn how to test react components
 
+# IoT 
+
+- [ ] Work on the first IoT project of your career
+- [ ] Use MQTT for... something
+- [ ] Learn about the basics of BLE
+ 
 # Misc
 
 ## Side Projects
