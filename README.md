@@ -59,18 +59,28 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [ ] Conduct code reviews for senior capstone class
 - [ ] Be able to create a small - medium sized flutter application following best practices
 
+- [ ] Implement Crashlytics in a flutter application
+- [ ] Implement analytics in a flutter application
+- [ ] Learn a new state management tool other than `Provider`
+- [ ] Connect to BLE devices in a flutter application
+
 ## Spring boot
 
 - [ ] Conduct code reviews for senior capstone class
 
-## Dot Net
+## Dot Net C#
+
+- [ ] Learn how to use event handlers in a dot net application
+- [ ] Deploy your own version of a NuGet package for a project
+- [ ]
 
 - [ ] Basic SignalR API for RTC
 
 ## Swift
 
-- [ ] Learn the basics of the swift language
-- [ ] Participate on a iOS project
+- [x] Learn the basics of the swift language
+- [x] Participate on a iOS project
+  - Worked with Meijer on their iOS application. Completed 02/28/2025
 
 ## React
 
@@ -90,12 +100,13 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 
 - [ ] Finish [VisNotes](https://github.com/VisNotes) by getting the web interface into a useable condition
 - [ ] Rebuild resume website
-- [ ] Contribute to an opensource project
+- [ ] Contribute to an open source project (dotnet format?)
 
 ## Get Involved
 
 - [ ] Give a well researched talk to a Vervint Cohort
-- [ ] Give a talk to the Hope Senior Capstone Class
+- [x] Give a talk to the Hope Senior Capstone Class
+  - Completed 03/04/2025
 
 ## Books
 
