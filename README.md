@@ -57,12 +57,18 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 ## Flutter
 
 - [ ] Conduct code reviews for senior capstone class
-- [ ] Be able to create a small - medium sized flutter application following best practices
 
-- [ ] Implement Crashlytics in a flutter application
+**Almost all of these are completed in the BeeFly project**
+ - [BeeFly](https://github.com/DrStern/BeeFly_App) setup. Completed 05/14/2025
+
+- [x] Implement Crashlytics in a flutter application
 - [ ] Implement analytics in a flutter application
-- [ ] Learn a new state management tool other than `Provider`
+- [x] Be able to create a small - medium sized flutter application following best practices
+- [x] Learn a new state management tool other than `Provider`
+  - [BLoC](https://bloclibrary.dev/) uses events and streams to manage state completed 05/14/2025
 - [ ] Connect to BLE devices in a flutter application
+- [x] Use local packages to isolate functionality
+- [x] Use `Firebase` for authentication
 
 ## Spring boot
 
@@ -70,11 +76,12 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 
 ## Dot Net C#
 
-- [ ] Learn how to use event handlers in a dot net application
-- [ ] Deploy your own version of a NuGet package for a project
-- [ ]
+- [x] Learn how to use event handlers in a dot net application
+  - *Cobbler for Dornerworks* completed 03/28/2025
+- [x] Deploy your own version of a NuGet package for a project
+  - *Cobbler for Dornerworks* completed 03/28/2025
 
-- [ ] Basic SignalR API for RTC
+- [x] Basic SignalR API for RTC
 
 ## Swift
 
@@ -107,6 +114,7 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [ ] Give a well researched talk to a Vervint Cohort
 - [x] Give a talk to the Hope Senior Capstone Class
   - Completed 03/04/2025
+  - [See the slides here](assets/hope_presentation.pdf)
 
 ## Books
 
@@ -115,6 +123,6 @@ Finally, there will be one major goal. It will be more abstract but it will enca
 - [x] [Designing Data intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - Completed 2/13/2025
   - pg. 518, 538
-  - Synopsis coming soon
+  - [Gave a synopsis of key pieces to the Hope class](assets/hope_presentation.pdf)
 - [ ] [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
